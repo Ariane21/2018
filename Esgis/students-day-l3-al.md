@@ -16,7 +16,7 @@ Compte Github : https://github.com/asand04
 
 ## Groupe 3
 Nom : DADY
-Prenom : Ariane
+Prenom : Ariane M.
 Compte Github : https://github.com/Ariane21
 ---
 Nom :
