@@ -15,9 +15,9 @@ Prenom : As-and
 Compte Github : https://github.com/asand04
 
 ## Groupe 3
-Nom :
-Prenom :
-Compte Github :
+Nom : DADY
+Prenom : Ariane
+Compte Github : https://github.com/Ariane21
 ---
 Nom :
 Prenom :
